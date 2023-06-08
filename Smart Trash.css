@@ -1,0 +1,88 @@
+.st{
+    color: yellow;
+    text-align: center;
+    font-size: 30px;
+}
+body {
+    direction: rtl;
+    background-image: url('smart\ bin1.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
+.eg{
+    opacity: 50%;
+    border-radius: 20%;
+}
+p{
+    font-size: 25px;
+}
+h1,H2{
+    text-underline-position: under;
+    color: blue;
+    text-decoration: underline;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+  /* Style the sidebar - fixed full height */
+.sidebar {
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    padding-top: 16px;
+  }
+  
+  /* Style sidebar links */
+  .sidebar a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #818181;
+    display: block;
+  }
+  
+  /* Style links on mouse-over */
+  .sidebar a:hover {
+    color: #f1f1f1;
+  }
+  
+  /* Style the main content */
+  .main {
+    margin-right: 160px; /* Same as the width of the sidenav */
+    padding: 0px 10px;
+  }
+  
+  /* Add media queries for small screens (when the height of the screen is less than 450px, add a smaller padding and font-size) */
+  @media screen and (max-height: 450px) {
+    .sidebar {padding-top: 15px;}
+    .sidebar a {font-size: 18px;}
+  }
+  td,th{
+    font-size: 35px;
+    font-style:oblique;
+    font-weight: bolder;
+  }
+  th{
+    background-color: #818181;
+    border-radius: 1cm;
+  }
+
+  .bigImage {
+    width:100px;
+    height:300px;
+  display: flex;
+}
+li{
+  font-weight: bolder;
+  font-size: 20px;
+}
+.recycling{
+  font-weight: bolder;
+  font-size: 20px;
+}
