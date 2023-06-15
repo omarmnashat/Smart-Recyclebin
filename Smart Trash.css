@@ -5,9 +5,7 @@
 }
 body {
     direction: rtl;
-    background-image: url('smart\ bin1.jpg');
-    background-repeat: no-repeat;
-    background-size:cover;
+    background-color:limegreen;
 
 }
 .eg{
@@ -86,3 +84,14 @@ li{
   font-weight: bolder;
   font-size: 20px;
 }
+@media screen and (max-width: 1200px) {
+  .menu {
+    width: 100%;
+  }
+  }
+  
+  @media screen and (min-width: 1200px) {
+  .menu {
+    width: 30%;
+  }
+  }
