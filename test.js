@@ -1,6 +1,6 @@
 
 function checkradio()
-    {var result=0;
+    {var result=1;
 
 let radio1 = document.getElementById(12);
 let radio2 = document.getElementById(22);
