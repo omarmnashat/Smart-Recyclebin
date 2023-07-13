@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> abstract </title>
+    <link rel="stylesheet" href="Smart Trash.css">
+</head>
+<body>
+    <!-- The sidebar -->
+<!-- Load an icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!-- The sidebar -->
+<div class="sidebar">
+  <a href="index.html"><i class="fa fa-fw fa-home"></i> Home</a>
+  <a href="abstract.html"><i class="fa fa-fw fa-wrench"></i> abstract</a>
+  <a href="startup.html"><i class="fa fa-fw fa-wrench"></i> Our start up Business</a>
+  <a href="previous projects.html"><i class="fa fa-fw fa-wrench"></i> previous projects</a>
+  <a href="Recycling.html"><i class="fa fa-fw fa-user"></i> Recycling</a>
+ <a href="conference.html"><i class="fa fa-fw fa-user"></i> Conference </a>
+ <a href="Sustainable development.html"><i class="fa fa-fw fa-user"></i> Sustainable development </a>  
+ <a href="Food 2030.html"><i class="fa fa-fw fa-envelope"></i> Food 2030</a>
+ <a href="test.html"><i class="fa fa-fw fa-envelope"></i> Test</a>
+  <a href="contact.html"><i class="fa fa-fw fa-envelope"></i> Contact</a>
+</div>
+<div class="main">
+
+<center>
+
+<h1> Business Model </h1>
+<img src="busines model.jpg" alt="" width="1100px">
+</center>
+<p> بدء المشروع كشركة ناشئة ليس من الصعب مطلقا ممكن البدء فى المناطق ذات الدخل المرتفع لتحقيق عوائد اقتصادية تخدم ونمول التوسع فى المناطق ذات الدخل المتوسط والمنخفض .
+    مشكلتنا (الهدف) هي الحفاظ على البيئة من ناحية ، لوقف تفاقم التلوث الذي يؤدي إلى تغيرات مناخية قاسية تضر بأرضنا ، ومن ناحية أخرى ، تعظيم الاستفادة من الموارد المحلية المتاحة ، أطنان من النفايات مثل لم يعد يمثل مشكلة للمجتمع ، بل أصبح يمثل إضافة إلى القيمة الاقتصادية. </p>
+
+
+
+</div>       
+</body>
+
+</html>
