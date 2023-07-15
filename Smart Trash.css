@@ -95,3 +95,13 @@ li{
     width: 30%;
   }
   }
+
+  .Q{
+ 
+    height: 300px;
+    border-radius: 10ch;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
