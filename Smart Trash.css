@@ -105,3 +105,9 @@ li{
     margin-right: auto;
     width: 50%;
   }
+  .video{
+   color: red;
+   height: 50px;
+   width: 200px;
+   font-size: xx-large;
+  }
